@@ -97,23 +97,6 @@ This project involved:
 * **Australia** shows the highest revenue per customer.
 * Customer growth increased sharply from around August 2021 onward.
 
-## Screenshots
-
-### Executive Dashboard
-
-<img alt="Executive Dashboard" src="Screenshots/Screenshot 2026-04-30 161447.png">
-
-### Geographic View
-
-<img alt="Map View" src="images/screenshots/map_view.png">
-
-### Product Detail View
-
-<img alt="Product Detail View" src="images/screenshots/product_detail.png">
-
-### Customer Detail View
-
-<img alt="Customer Detail View" src="images/screenshots/customer_detail.png">
 
 ## Repository Structure
 
@@ -151,4 +134,3 @@ If you are reviewing my portfolio, this project highlights my ability to:
 ---
 
 **Built with Power BI Desktop**
-t
