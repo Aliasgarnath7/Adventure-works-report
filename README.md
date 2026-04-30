@@ -96,7 +96,11 @@ This project involved:
 * The **United States** is the largest market by orders and revenue.
 * **Australia** shows the highest revenue per customer.
 * Customer growth increased sharply from around August 2021 onward.
+## Screenshots
 
+### Executive Dashboard
+
+<img alt="Executive Dashboard" src="Screenshots/Screenshot 2026-04-30 161447.png">
 
 ## Repository Structure
 
